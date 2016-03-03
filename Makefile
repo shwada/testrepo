@@ -53,11 +53,5 @@ print:;		@$(PRINT) $(HDRS) $(SRCS)
 
 tags:           $(HDRS) $(SRCS); @ctags $(HDRS) $(SRCS)
 
-update:		$(DEST)/$(PROGRAM)
 
-$(DEST)/$(PROGRAM): $(SRCS) $(LIBS) $(HDRS) $(EXTHDRS)
-		@$(MAKE) -f $(MAKEFILE) ROOT=$(ROOT) DEST=$(DEST) install
-###
 
-romzout.o: globalrisc.h riscsize.h hikisuu.h ndprint.h lib.h errorglobal.h \
-	length.h
