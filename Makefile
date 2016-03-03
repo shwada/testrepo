@@ -8,6 +8,7 @@ HDRS	      =
 
 INSTALL	      =
 LD	      = gcc
+CC			= gcc
 
 LDFLAGS	      = 
 
@@ -21,7 +22,7 @@ PRINT	      =
 
 PROGRAM       = main
 
-SHELL	      = /usr/bin/sh
+SHELL	      = /bin/sh
 
 SRCS	      = main.c
 
