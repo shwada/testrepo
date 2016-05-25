@@ -15,5 +15,5 @@ printf("Pull Request:Å`topic2Å`\n");
 printf("Pull Request NO.5\n");
 printf("Pull Request NO.6\n");
 	
-printf("Pull Request topic3\n");
+printf("Pull Request topic3 desu\n");
 }
