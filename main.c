@@ -9,11 +9,11 @@ printf("hello world4\n");
 printf("slack test\n");	
 printf("slack test2\n");
 printf("Pull Request6\n");
-printf("Pull Request:Å`topic2Å`\n");
-printf("Pull Request:Å`topic2Å`\n");
+printf("Pull Request:¬Å`topic2¬Å`\n");
+printf("Pull Request:¬Å`topic2¬Å`\n");
 
 printf("Pull Request NO.5\n");
 printf("Pull Request NO.6\n");
 	
-printf("Pull Request topic3 desu\n");
+printf("Pull Request topic3 desuyo\n");
 }
