@@ -51,7 +51,7 @@ install:	$(PROGRAM)
 
 print:;		@$(PRINT) $(HDRS) $(SRCS)
 
-tags:           $(HDRS) $(SRCS); @ctags $(HDRS) $(SRCS)
+tags:           $(HDRS) $(SRCS); @ctags $(HDRS) $(SRCS)  
 
 
 
